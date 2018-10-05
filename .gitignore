@@ -1,0 +1,7 @@
+# Front-End
+/react-frontend/node_modules
+/react-frontend/build
+
+# Backend-End
+/todoapi/node_modules
+/todoapi/.env
